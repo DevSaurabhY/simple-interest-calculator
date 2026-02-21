@@ -1,4 +1,3 @@
-# simple-interest-calculator
 # Simple Interest Calculator
 
 This project is a simple interest calculator that computes interest based on the formula:
